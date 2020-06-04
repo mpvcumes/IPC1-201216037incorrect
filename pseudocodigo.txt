@@ -1,0 +1,14 @@
+
+
+INICIO
+1. Ingresar a la plataforma
+2. Elegir la sección que desea
+3. Verificar el cupo en la sección elegida
+4. Si la sección que eligio tiene menos de quince estudiantes, indicarle que si se puede asignar a esa sección. 
+5. Sino
+6. Pedirle que eliga la segunda sección. 
+7. Verificar el cupo en la segunda sección. 
+8. Si hay cupo en la segunda sección asignarse a la segunda sección. 
+9. Sino
+10.Abrir otra sección.
+FIN
