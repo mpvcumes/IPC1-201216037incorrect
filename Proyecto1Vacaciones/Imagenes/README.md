@@ -17,3 +17,5 @@ El presente proyecto es una asignación de un estudiante de tercer semestre de I
 
 ***********************************************
 
+![alt text](https://github.com/mpvcumes/IPC1-201216037incorrect/blob/master/Proyecto1Vacaciones/Imagenes/PanelAdministrador.PNG)
+
